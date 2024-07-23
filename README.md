@@ -6,12 +6,15 @@
   </h1>
   
   <p align="center">
-    I'm a developer passionate about technology and innovation. Always seeking new challenges and opportunities to learn. I'm an open-source and web development enthusiast.
+    I'm a web developer passionate about technology and innovation.
+  </p>
+    <p align="center">
+    Always seeking new challenges and opportunities to learn. Also an open-source enthusiast.
   </p>
 </div>
 
 <div align="center">
-  <a href=["https://github.com/licyafreoli](https://github.com/licyafreoli)">
+  <a href="https://github.com/licyafreoli">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=licyafreoli&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
@@ -27,7 +30,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+  <img align="center" alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
