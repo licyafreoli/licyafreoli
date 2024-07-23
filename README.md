@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Hi, I'm 
-    <a href="https://www.linkedin.com/in/licyaoliveira">Lícya Oliveira!👋</a>
+    <a href="https://www.linkedin.com/in/licyaoliveira" style="color: yellow;"> Lícya Oliveira!👋</a>
   </h1>
   
   <p align="center">
@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/licyafreoli">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=licyafreoli&count_private=true&include_all_commits=true&show_icons=true&theme=maroongold&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licyafreoli&theme=maroongold&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=licyafreoli&count_private=true&include_all_commits=true&show_icons=true&theme=great-gatsby&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licyafreoli&theme=great-gatsby&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
